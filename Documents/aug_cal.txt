@@ -1,0 +1,10 @@
+7000-house rent
+1400-net bil
+1500-swal
+4000-trip
+3000-credit card
+4000-loan
+3000-dress
+12000-home
+3000-daily food
+

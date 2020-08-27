@@ -1,0 +1,42 @@
+Add-in Express Registrator Log File: 06/24/2015 08:12:30
+
+Installation directory: C:\Program Files\WinZip\
+Registrator version: 7.2.4055.0
+Operating System: Microsoft Windows 7 Ultimate Edition (build 7600), 64-bit
+Process Owner: Administrator
+Command Line: "C:\Program Files\WinZip\adxregistrator.exe" /uninstall="C:\Program Files\WinZip\WinZipExpressForOffice.dll" /privileges=user
+Run 'As Administrator': Yes
+Process Elevated: Yes
+Integrity Level: High
+UAC (User Account Control): On
+--------------------------------------------------------------
+08:12:30 0184 Starting the add-in unregistration process.
+08:12:30 0184 Loading mscoree.dll
+08:12:30 0184 Success.
+08:12:30 0184 .NET Framework installation directory: 
+08:12:30 0184 The latest version of .NET Framework: 'v2.0.50727'
+08:12:30 0184 Loading CLR: v2.0.50727.
+08:12:30 0184 The CLR v2.0.50727 has been initialized successfully.
+08:12:30 0184 Creating a new domain setup.
+08:12:30 0184 Success.
+08:12:30 0184 The 'shadow copy' is disabled.
+08:12:30 0184 Creating a new application domain.
+08:12:30 0184 Success.
+08:12:30 0184 Getting the base directory for the domain.
+08:12:30 0184 Success. The directory is 'C:\Program Files\WinZip\'.
+08:12:30 0184 Searching for the Add-in Express core library.
+08:12:30 0184 Success. The 'AddinExpress.MSO.2005.dll' file is found.
+08:12:30 0184 Creating an instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+08:12:30 0184 Assembly identity is 'AddinExpress.MSO.2005'.
+08:12:31 0184 Success.
+08:12:31 0184 Unwrapping the instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+08:12:31 0184 Success.
+08:12:31 0184 Calling the managed unregistration procedure.
+08:12:31 1076 Connecting to the application domain of the Add-in Express loader.
+08:12:31 1076 Success.
+08:12:31 1076 Loading the 'winzipexpressforoffice.dll' assembly.
+08:12:31 1076 Success.
+08:12:31 1076 Unregistering the 'winzipexpressforoffice.dll' assembly (user).
+08:12:31 1076 The ' winzipexpressforoffice.dll' assembly has been unregistered successfully.
+08:12:31 0184 Success.
+08:12:31 0184 The add-in unregistration process is completed with HRESULT = 0.

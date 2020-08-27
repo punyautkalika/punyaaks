@@ -1,0 +1,48 @@
+============================================
+2015/10/11 13:21:18
+============================================
+
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+ReadyToScan st_connectAndroidCount = 1
+ReadyToScan st_connectAndroidCount = 1
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+ReadyToScan st_connectAndroidCount = 1
+ReadytoScan success , disk count=0
+pinfo->Device_Name=HTC
+
+pinfo->Serial_Number=HQ52WYL21749
+pinfo->Device_Mode=HTC Desire 526GPLUS dual sim
+
+pinfo->Andriod_Version=4.4.2
+
+pinfo->SDK_Version=1.05.720.1
+
+pinfo->Phone_SIMNumber=
+pinfo->Device_SIMOperatorName=
+sms error:can not exist C:/Users/user/AppData/Local/Temp/Temp_androidrc/HQ52WYL21749/com.android.providers.telephony/databases/mmssms.db
+g_currentscandiskCount = 0
+g_scan_flags_enable_audio = 1
+g_scan_flags_enable_video = 1
+g_scan_flags_enable_image = 1
+g_scan_flags_enable_document = 0
+Contact error:can not exist C:/Users/user/AppData/Local/Temp/Temp_androidrc/HQ52WYL21749/com.android.providers.contacts/databases/contacts2.db
+whatsapp wa error:can not exist C:/Users/user/AppData/Local/Temp/Temp_androidrc/HQ52WYL21749/com.whatsapp/databases/wa.db
+whatsapp msgstore error:can not exist C:/Users/user/AppData/Local/Temp/Temp_androidrc/HQ52WYL21749/com.whatsapp/databases/msgstore.db

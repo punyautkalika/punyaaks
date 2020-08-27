@@ -1,0 +1,26 @@
+umask:file permission
+
+ls
+ls -l
+ls -a
+cat >jajy
+cat jajy
+Count Lines, Words & Characters Using 'wc'
+file *
+wc jajjy
+wc -l jajy
+wc -w jajjy
+sort
+
+ Cut Through Your Files
+cut -d"-'
+
+
+Convert & Copy Files With 'dd'
+
+echo "Hello world"
+
+echo expr $a + $b
+
+chmod 777 script .sh
+./cript.sh
